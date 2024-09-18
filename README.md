@@ -1,8 +1,8 @@
 ## Olá, Eu sou a Jamilly Suzan 👋
 
--✦ 🔭 Estou cursando o segundo semestre da faculdae de Ciências da Computação
--✦ 🌱 Aprendendo HTML, CSS e JS
--➜ 🌙 sem usar no momento
+✦ 🔭 Estou cursando o segundo semestre da faculdae de Ciências da Computação 
+✦ 🌱 Aprendendo HTML, CSS e JS
+✦  sem usar no momento
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misukz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misukz&hide_progress=true&theme=radical)
