@@ -1,4 +1,4 @@
-## Olá, Eu sou a Jamilly Suzan 👋
+## Oii, Eu sou a Jamilly Suzan 👋
 
 ✦ 🔭 Estou cursando o segundo semestre da faculdae de Ciências da Computação 
 ✦ 🌱 Aprendendo HTML, CSS e JS
