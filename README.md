@@ -4,7 +4,7 @@
 <br>
 ✦ 🌱 Aprendendo HTML, CSS e JS
 <br>
-✦  sem usar no momento
+✦     sem usar no momento
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misukz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misukz&hide_progress=true&theme=radical)
