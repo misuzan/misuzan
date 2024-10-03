@@ -6,7 +6,7 @@
 <br>
 ✦     sem usar no momento
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f6418a&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jamilly+Suzan;I+am+from+Cuiabá,+MT;I+am+studying+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f6418a&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misukz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misukz&hide_progress=true&theme=radical)
@@ -35,3 +35,4 @@
 <div>
   <img align="right" alt="misu-Csharp" src="https://media.tenor.com/DVXNuYXLyGUAAAAM/raining-pixel.gif">
 </div>
+
