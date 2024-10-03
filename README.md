@@ -6,6 +6,8 @@
 <br>
 ✦     sem usar no momento
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9A3C8E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jamilly+Suzan;I+am+from+Cuiabá,+MT;I+am+studying+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=misukz&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misukz&hide_progress=true&theme=radical)
 
