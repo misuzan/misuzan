@@ -3,6 +3,11 @@
 <img align="center" alt="" src="./src/header-gif.gif">
 
 #
+
+<p align="center">Estudante de Ciências da Computação, com foco atual em desenvolvimento front-end e a meta de me tornar full stack. Estou constantemente aprendendo novas tecnologias e aplicando-as em projetos práticos. Acompanhe meus projetos aqui e sinta-se à vontade para contribuir!.
+  
+#
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
