@@ -2,16 +2,8 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-
-## Oii, Eu sou a Jamilly Suzan 👋
-
-✦ 🔭 Estou cursando o segundo semestre da faculdae de Ciências da Computação 
-<br>
-✦ 🌱 Aprendendo HTML, CSS e JS
-<br>
-✦     sem usar no momento
-
 #
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
 
