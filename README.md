@@ -4,7 +4,7 @@
 
 #
 
-<p align="center">Estudante de Ciências da Computação, com foco atual em desenvolvimento front-end e a meta de me tornar full stack.  Busco constantemente aprender novas tecnologias aplicando-as em projetos inovadores e práticos. Adoro enfrentar desafios que me permitem crescer como desenvolvedora e explorar tanto o front quanto o back-end. Acompanhe meus projetos aqui e sinta-se à vontade para contribuir !.
+<p align="center">Estudante de Ciências da Computação, apaixonada por tecnologia e inovação. No momento, estou aprofundando meus conhecimentos em desenvolvimento front-end, mas com a meta de me tornar uma desenvolvedora full stack. Gosto de resolver problemas e criar soluções eficientes, sempre em busca de aprender mais e contribuir para projetos desafiadores. Acompanhe meus projetos aqui e sinta-se à vontade para contribuir !.
   
 #
 
